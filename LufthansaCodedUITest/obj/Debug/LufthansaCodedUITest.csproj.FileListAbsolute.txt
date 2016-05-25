@@ -1,0 +1,5 @@
+C:\Users\Amela\Documents\Visual Studio 2015\Projects\SpicaAmela16413 - Copy\LufthansaCodedUITest\bin\Debug\LufthansaCodedUITest.dll
+C:\Users\Amela\Documents\Visual Studio 2015\Projects\SpicaAmela16413 - Copy\LufthansaCodedUITest\bin\Debug\LufthansaCodedUITest.pdb
+C:\Users\Amela\Documents\Visual Studio 2015\Projects\SpicaAmela16413 - Copy\LufthansaCodedUITest\obj\Debug\LufthansaCodedUITest.csprojResolveAssemblyReference.cache
+C:\Users\Amela\Documents\Visual Studio 2015\Projects\SpicaAmela16413 - Copy\LufthansaCodedUITest\obj\Debug\LufthansaCodedUITest.dll
+C:\Users\Amela\Documents\Visual Studio 2015\Projects\SpicaAmela16413 - Copy\LufthansaCodedUITest\obj\Debug\LufthansaCodedUITest.pdb

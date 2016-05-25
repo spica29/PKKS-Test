@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfUneseniLet xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <UneseniLet>
+    <let>
+      <_od>Sarajevo, BiH</_od>
+      <_do>Zagreb, HR</_do>
+      <distanca>9363</distanca>
+      <prtljag>4</prtljag>
+      <taksa>0.125</taksa>
+      <klasa>1</klasa>
+    </let>
+    <posiljaoc>
+      <ime>Amela</ime>
+      <prezime>Spica</prezime>
+      <JMBG>2901994175003</JMBG>
+      <kontakt>+38762-282-330</kontakt>
+      <komentar>sdf</komentar>
+    </posiljaoc>
+    <ID>1</ID>
+    <cijena>1280.15</cijena>
+  </UneseniLet>
+  <UneseniLet>
+    <let>
+      <_od>Beograd, SRB</_od>
+      <_do>Beograd, SRB</_do>
+      <distanca>9555</distanca>
+      <prtljag>5</prtljag>
+      <taksa>0.3</taksa>
+      <klasa>5</klasa>
+    </let>
+    <posiljaoc>
+      <ime>dfs</ime>
+      <prezime>fdsf</prezime>
+      <JMBG>2901994175003</JMBG>
+      <kontakt>+38762-666-666</kontakt>
+      <komentar>sdfs</komentar>
+    </posiljaoc>
+    <ID>2</ID>
+    <cijena>1537.32</cijena>
+  </UneseniLet>
+</ArrayOfUneseniLet>

@@ -1,0 +1,14 @@
+C:\Users\Amela\Documents\Visual Studio 2015\Projects\SpicaAmela16413\LufthansaServices\bin\Debug\LufthansaServices.dll
+C:\Users\Amela\Documents\Visual Studio 2015\Projects\SpicaAmela16413\LufthansaServices\bin\Debug\LufthansaServices.pdb
+C:\Users\Amela\Documents\Visual Studio 2015\Projects\SpicaAmela16413\LufthansaServices\bin\Debug\LufthansaForm.exe
+C:\Users\Amela\Documents\Visual Studio 2015\Projects\SpicaAmela16413\LufthansaServices\bin\Debug\LufthansaForm.pdb
+C:\Users\Amela\Documents\Visual Studio 2015\Projects\SpicaAmela16413\LufthansaServices\obj\Debug\LufthansaServices.csprojResolveAssemblyReference.cache
+C:\Users\Amela\Documents\Visual Studio 2015\Projects\SpicaAmela16413\LufthansaServices\obj\Debug\LufthansaServices.dll
+C:\Users\Amela\Documents\Visual Studio 2015\Projects\SpicaAmela16413\LufthansaServices\obj\Debug\LufthansaServices.pdb
+C:\Users\Amela\Documents\Visual Studio 2015\Projects\SpicaAmela16413 - Copy\LufthansaServices\bin\Debug\LufthansaServices.dll
+C:\Users\Amela\Documents\Visual Studio 2015\Projects\SpicaAmela16413 - Copy\LufthansaServices\bin\Debug\LufthansaServices.pdb
+C:\Users\Amela\Documents\Visual Studio 2015\Projects\SpicaAmela16413 - Copy\LufthansaServices\bin\Debug\LufthansaForm.exe
+C:\Users\Amela\Documents\Visual Studio 2015\Projects\SpicaAmela16413 - Copy\LufthansaServices\bin\Debug\LufthansaForm.pdb
+C:\Users\Amela\Documents\Visual Studio 2015\Projects\SpicaAmela16413 - Copy\LufthansaServices\obj\Debug\LufthansaServices.csprojResolveAssemblyReference.cache
+C:\Users\Amela\Documents\Visual Studio 2015\Projects\SpicaAmela16413 - Copy\LufthansaServices\obj\Debug\LufthansaServices.dll
+C:\Users\Amela\Documents\Visual Studio 2015\Projects\SpicaAmela16413 - Copy\LufthansaServices\obj\Debug\LufthansaServices.pdb

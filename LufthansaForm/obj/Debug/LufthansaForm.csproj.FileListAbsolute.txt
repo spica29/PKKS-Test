@@ -1,0 +1,27 @@
+c:\users\amela\documents\visual studio 2015\Projects\SpicaAmela16413\LufthansaForm\bin\Debug\LufthansaForm.exe.config
+c:\users\amela\documents\visual studio 2015\Projects\SpicaAmela16413\LufthansaForm\bin\Debug\LufthansaForm.exe
+c:\users\amela\documents\visual studio 2015\Projects\SpicaAmela16413\LufthansaForm\bin\Debug\LufthansaForm.pdb
+c:\users\amela\documents\visual studio 2015\Projects\SpicaAmela16413\LufthansaForm\obj\Debug\LufthansaForm.csprojResolveAssemblyReference.cache
+c:\users\amela\documents\visual studio 2015\Projects\SpicaAmela16413\LufthansaForm\obj\Debug\LufthansaForm.Form1.resources
+c:\users\amela\documents\visual studio 2015\Projects\SpicaAmela16413\LufthansaForm\obj\Debug\LufthansaForm.Properties.Resources.resources
+c:\users\amela\documents\visual studio 2015\Projects\SpicaAmela16413\LufthansaForm\obj\Debug\LufthansaForm.csproj.GenerateResource.Cache
+c:\users\amela\documents\visual studio 2015\Projects\SpicaAmela16413\LufthansaForm\obj\Debug\LufthansaForm.exe
+c:\users\amela\documents\visual studio 2015\Projects\SpicaAmela16413\LufthansaForm\obj\Debug\LufthansaForm.pdb
+C:\Users\Amela\Documents\Visual Studio 2015\Projects\SpicaAmela16413 - Copy\LufthansaForm\bin\Debug\LufthansaForm.exe.config
+C:\Users\Amela\Documents\Visual Studio 2015\Projects\SpicaAmela16413 - Copy\LufthansaForm\obj\Debug\LufthansaForm.exe
+C:\Users\Amela\Documents\Visual Studio 2015\Projects\SpicaAmela16413 - Copy\LufthansaForm\obj\Debug\LufthansaForm.pdb
+C:\Users\Amela\Documents\Visual Studio 2015\Projects\SpicaAmela16413 - Copy\LufthansaForm\bin\Debug\LufthansaForm.exe
+C:\Users\Amela\Documents\Visual Studio 2015\Projects\SpicaAmela16413 - Copy\LufthansaForm\bin\Debug\LufthansaForm.pdb
+C:\Users\Amela\Documents\Visual Studio 2015\Projects\SpicaAmela16413 - Copy\LufthansaForm\obj\Debug\LufthansaForm.csprojResolveAssemblyReference.cache
+C:\Users\Amela\Documents\Visual Studio 2015\Projects\SpicaAmela16413 - Copy\LufthansaForm\obj\Debug\LufthansaForm.Form1.resources
+C:\Users\Amela\Documents\Visual Studio 2015\Projects\SpicaAmela16413 - Copy\LufthansaForm\obj\Debug\LufthansaForm.Properties.Resources.resources
+C:\Users\Amela\Documents\Visual Studio 2015\Projects\SpicaAmela16413 - Copy\LufthansaForm\obj\Debug\LufthansaForm.csproj.GenerateResource.Cache
+D:\ETF\6. semestar\Pouzdanost i kontrola kvalitete softvera\SpicaAmela16413 - Copy\LufthansaForm\bin\Debug\LufthansaForm.exe.config
+D:\ETF\6. semestar\Pouzdanost i kontrola kvalitete softvera\SpicaAmela16413 - Copy\LufthansaForm\obj\Debug\LufthansaForm.exe
+D:\ETF\6. semestar\Pouzdanost i kontrola kvalitete softvera\SpicaAmela16413 - Copy\LufthansaForm\obj\Debug\LufthansaForm.pdb
+D:\ETF\6. semestar\Pouzdanost i kontrola kvalitete softvera\SpicaAmela16413 - Copy\LufthansaForm\bin\Debug\LufthansaForm.exe
+D:\ETF\6. semestar\Pouzdanost i kontrola kvalitete softvera\SpicaAmela16413 - Copy\LufthansaForm\bin\Debug\LufthansaForm.pdb
+D:\ETF\6. semestar\Pouzdanost i kontrola kvalitete softvera\SpicaAmela16413 - Copy\LufthansaForm\obj\Debug\LufthansaForm.csprojResolveAssemblyReference.cache
+D:\ETF\6. semestar\Pouzdanost i kontrola kvalitete softvera\SpicaAmela16413 - Copy\LufthansaForm\obj\Debug\LufthansaForm.Form1.resources
+D:\ETF\6. semestar\Pouzdanost i kontrola kvalitete softvera\SpicaAmela16413 - Copy\LufthansaForm\obj\Debug\LufthansaForm.Properties.Resources.resources
+D:\ETF\6. semestar\Pouzdanost i kontrola kvalitete softvera\SpicaAmela16413 - Copy\LufthansaForm\obj\Debug\LufthansaForm.csproj.GenerateResource.Cache
